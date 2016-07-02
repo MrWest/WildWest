@@ -1,0 +1,608 @@
+/*My add*/
+.lead {
+    margin-bottom: 20px;
+    font-size: 21px;
+    font-weight: 200;
+    line-height: 30px;
+}
+
+.splash {
+    /*background: url("../../img/back4.jpg") no-repeat center center fixed;*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    transition: background 0.5s ease;
+    -moz-transition: background 0.5s ease;
+    -webkit-transition: background 0.5s ease;
+    -o-transition: background 0.5s ease;
+    -ms-transition: background 0.5s ease;
+    background-size: cover;
+    height: 800px;
+    padding: 9em 0 2em;
+    text-align: center;
+    color: #FFFFFF;
+}
+.splash-down {
+    font-size: 30px;
+}
+.section-header {
+    text-align: center;
+    /*padding-bottom: 30px;*/
+    padding-bottom: 2px;
+}
+.section-header h2 {
+    /*padding-bottom: 10px;*/
+    line-height: 40px;
+    position: relative;
+    display: inline-block;
+}
+.section-header h6 {
+    font-size: 16px;
+}
+/*testimonios*/
+.client-image {
+    float: right;
+    width: 73px;
+    height: 73px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 3px solid #f6f6f6;
+}
+.client-info {
+    float: left;
+    margin-left: 18px;
+    padding-top: 15px;
+}
+.client-info .client-name {
+    font-family: 'Homemade Apple', serif;
+    color: #404040;
+}
+.client-info .client-company {
+    font-size: 13px;
+    margin-top: -3px;
+}
+.client-company a{
+    /*font-family: 'Homemade Apple', serif;*/
+    color: #404040;
+}
+.client {
+    margin-top: 3px;
+    height: 73px;
+    position: relative;
+}
+.message {
+    font-size: 15px;
+    color: #909090;
+}
+.tour-name a{
+    color: #404040;
+}
+.quote {
+    float: left;
+    font-size: 45px;
+    line-height: 80px;
+}
+/** FOR TEXTS AND ICON FONTS **/
+.red-text {
+    /*color: #e96656;*/
+    color:#FF005A;
+}
+.green-text {
+    color: #34d293;
+}
+.blue-text {
+    color: #3ab0e2;
+}
+.cubaoutings-text{
+    color: #2C3E50;
+}
+.yellow-text {
+    color: #f7d861;
+}
+.dark-text {
+    color: #404040;
+}
+.white-text {
+    color: #FFFFFF;
+}
+.space-top-bottom {
+	margin-top: 30px;
+    padding-bottom: 60px;
+	padding-top: 70px;
+}
+.easy-space-top-bottom {
+	
+    padding-bottom: 30px;
+	padding-top: 30px;
+}
+
+
+/** FOR ABOUT SECTIONS **/
+.about-info {
+   /* height: 100px;*/
+    border: 1px solid #2C3E50;
+    border-radius: 7px;
+    padding-left: 5px;
+    padding-top: 30px;
+	padding-bottom: 30px;
+	 margin-top: 60px;
+	  margin-bottom: 30px;
+	
+}
+.about-rating {
+   /* height: 100px;*/
+   
+
+	 margin-top: 60px;
+	  margin-bottom: 30px;
+	
+}
+.quote-about {
+    float: left;
+    font-size: 80px;
+    line-height: 80px;
+    /*border: 3px solid #F6F6F6;
+    border-radius: 50%;*/
+}
+.about-text {
+    float: left;
+    margin-left: 18px;
+    /*padding-top: 15px;*/
+    max-width: 260px;
+}
+.text {
+    font-size: 15px;
+    color: #909090;
+}
+/** FOR CONTACT SECTIONS **/
+.contact-buttons {
+    margin-top: 280px;
+    margin-right: 16px;
+}
+#contact{
+    margin-top: 40px;
+}
+/**FOR TEAM ON FOOTER**/
+.team-image {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 3px solid #e74c3c;/*#f6f6f6*/
+}
+.team-info {
+    font-size: 10pt;
+    margin-left: -8px;
+}
+.team-job {
+
+}
+/*FOR SIDEBAR*/
+.top_sidebar{
+    margin-top: 62px;
+}
+.portlet-decoration{
+    text-align: right;
+    background-color: #2C3E50;
+    color: #FFFFFF;
+    padding: 10px 15px;
+
+}
+.portlet{
+    border: 1px solid;
+    border-color: #2C3E50 ;
+    border-radius:4px;
+    margin-top:  10px;
+    margin-bottom: 10px;
+
+
+}
+.operations{
+    text-align: right;
+}
+/*FOR FILEUPLOAD*/
+.fileUpload {
+    position: relative;
+    overflow: hidden;
+    margin: 10px;
+}
+.fileUpload input.upload {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+/*FOR CAROUSEL*/
+#carousel-top{
+    margin-top: 62px;
+}
+/*FOR MODAL DETAILS*/
+.details p{
+    top: -64px;
+    background: #333;
+    color: white;
+    opacity: 0.77;
+    position: absolute;
+    top: 70%;
+    width: 93%;
+    padding: 2px;
+    max-width: 550px;
+    max-height: 105px;
+    overflow: hidden;
+    margin-left: 1px;
+    border-bottom-right-radius: 1em;
+    border-top-right-radius: 1em;
+}
+.details :hover {
+    background: #000;
+    opacity: 0.77;
+}
+/*About page*/
+.about-content{
+    height: 600px;
+    /*padding: 9em 0 2em;*/
+    /*text-align: center;*/
+    background-image: url("../../../images/pic_portada/fondo.jpg");
+    /*background-size: cover;*/
+    /*background: no-repeat:x space:;*/
+    margin-top: -49px;
+    background-repeat: no-repeat;
+}
+/*.facebook{*/
+    /*margin-top: 10px;*/
+/*}*/
+/*NUEVOS*/
+.content-adds{
+    padding-top: 45px;
+}
+.caption_slider{
+    color: rgb(255, 3, 107) !important;
+}
+.caption_slider2{
+    color: #17BC9C !important;
+}
+.carousel-fade .carousel-inner .item::after {
+    background: rgba(0,0,0,.5);
+}
+.tours_h3{
+    font-size: 16px;
+}
+.section-fixed{
+    padding-top: -65px;
+}
+
+.visible{
+    visibility: visible;
+}
+.collapsed{
+    visibility: collapse;
+}
+.selectlanguage{
+      color: #34d293;
+	background: #2C3E50;
+	background-color: #2C3E50;
+}
+
+#portfolio .folio-item:hover .overlay .folio-info {
+
+    padding-left: 15px;
+    padding-right:  15px;
+    opacity: 1;
+    margin-bottom:0;
+    margin-top:0;
+}
+#lodgings .folio-item:hover .overlay .folio-info {
+
+    padding-left: 15px;
+    padding-right:  5px;
+    opacity: 1;
+    margin-bottom:0;
+    margin-top:0;
+}
+
+.splash {
+    /*background: url("../../img/back4.jpg") no-repeat center center fixed;*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    transition: background 0.5s ease;
+    -moz-transition: background 0.5s ease;
+    -webkit-transition: background 0.5s ease;
+    -o-transition: background 0.5s ease;
+    -ms-transition: background 0.5s ease;
+    background-size: cover;
+    height: 800px;
+    padding: 9em 0 2em;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+/* Based on Beautiful Social Bookmarking Widget By Harish @ www.way2blogging.org */
+ul.way2blogging-social {
+    list-style: none;
+    margin: 5px 0;
+    display: inline-block;
+    padding-left: 2px;
+}
+ul.way2blogging-social li {
+    display:inline;
+    float:left;
+    background-repeat:no-repeat;
+}
+ul.way2blogging-social li a {
+    display:block;
+    padding-right:5px;
+    position:relative;
+    text-decoration:none;
+}
+ul.way2blogging-social li a strong {
+    font-weight:normal;
+    position:absolute;
+    left:20px;
+    top:-10px;
+    color:#fff;
+    padding:3px;
+    z-index:9999;
+    text-shadow:1px 1px 0 rgba(0, 0, 0, 0.75);
+    background-color:rgba(0, 0, 0, 0.7);
+    -moz-border-radius:3px;
+    -moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    -webkit-border-radius:3px;
+    -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    border-radius:3px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    opacity:0;
+}
+
+ul.way2blogging-cssanime:hover li { opacity:0.4; }
+ul.way2blogging-cssanime li {
+    -webkit-transition-property: opacity;
+    -webkit-transition-duration: 500ms;
+    -moz-transition-property: opacity;
+    -moz-transition-duration: 500ms;
+}
+ul.way2blogging-cssanime li a strong {
+    -webkit-transition-property: opacity, top;
+    -webkit-transition-duration: 300ms;
+    -moz-transition-property: opacity, top;
+    -moz-transition-duration: 300ms;
+}
+ul.way2blogging-cssanime li:hover {
+    opacity:1;
+}
+ul.way2blogging-cssanime li:hover a strong {
+    opacity:1;
+}
+
+ul.way2blogging-size16 li a {
+    width: 16px;
+    height: 16px;
+}
+ul.way2blogging-size24 li a {
+    width: 24px;
+    height: 24px;
+}
+ul.way2blogging-size32 li a {
+    width: 32px;
+    height: 32px;
+}
+ul.way2blogging-size48 li a {
+    width: 48px;
+    height: 48px;
+}
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+  color: #ffffff;
+  background-color: transparent;
+}
+li.active  a {
+	color: #ff00ff;
+}
+.navbar-overall {
+	background:#ffffff;
+	height: 0px;
+}
+
+.navbar-fixed-topright{
+	background: #ff00ff;
+	position: fixed;	
+	height: 0px;
+	text-align: right;
+	vertical-align: middle;
+	width: 50px;
+	border: solid;
+	border-width: 1px;
+	}
+
+
+.folio-bookit-image  {
+	position: absolute;
+  width: 100%;
+}
+
+.btn-submit-cancel {
+  display: block;
+  padding: 12px;
+  width: 100%;
+  
+  border:0;
+  margin-top: 20px;
+
+}
+.modal-body  {
+  background-image: url(../images/portfolio/CasaLinda.jpg);
+   font-size: 16px;
+   text-align: center;
+    text-shadow:1px 1px 0 rgba(0, 0, 0, 0.75);
+	 
+	 padding: 0;
+   
+    color: #fff; 
+
+}
+.modal-body-havanatour  {
+  background-image: url(../images/portfolio/1_2.jpg);
+   font-size: 16px;
+   text-align: center;
+    text-shadow:1px 1px 0 rgba(0, 0, 0, 0.75);
+	 
+	 padding: 0;
+   
+    color: #fff; 
+
+}
+.modal-body-mcv  {
+  background-image: url(../images/portfolio/back1.jpg);
+   font-size: 16px;
+   text-align: center;
+    text-shadow:1px 1px 0 rgba(0, 0, 0, 0.75);
+	 
+	 padding: 0;
+   
+    color: #fff; 
+
+}
+
+.modal-body-trinidad  {
+  background-image: url(../images/portfolio/trinidad.jpg);
+   font-size: 16px;
+   text-align: center;
+    text-shadow:1px 1px 0 rgba(0, 0, 0, 0.75);
+	 
+	 padding: 0;
+   
+    color: #fff; 
+
+}
+
+.modal-body-tropicana  {
+  background-image: url(../images/portfolio/tropicana.jpg);
+   font-size: 16px;
+   text-align: center;
+    text-shadow:1px 1px 0 rgba(0, 0, 0, 0.75);
+	 
+	 padding: 0;
+   
+    color: #fff; 
+
+}
+.modal-body-vinnales  {
+  background-image: url(../images/portfolio/Vinales-ValleyPopular.jpg);
+   font-size: 16px;
+   text-align: center;
+    text-shadow:1px 1px 0 rgba(0, 0, 0, 0.75);
+	 
+	 padding: 0;
+   
+    color: #fff; 
+
+}
+
+.modal-body-threecities  {
+  background-image: url(../images/portfolio/13-cienfuegos.jpg);
+   font-size: 16px;
+   text-align: center;
+    text-shadow:1px 1px 0 rgba(0, 0, 0, 0.75);
+	 
+	 padding: 0;
+   
+    color: #fff; 
+
+}
+
+.modal-body-guama  {
+  background-image: url(../images/portfolio/guanma.jpg);
+   font-size: 16px;
+   text-align: center;
+    text-shadow:1px 1px 0 rgba(0, 0, 0, 0.75);
+	 
+	 padding: 0;
+   
+    color: #fff; 
+
+}
+
+.modal-body-cannonshot  {
+  background-image: url(../images/portfolio/cannonazo.jpg);
+   font-size: 16px;
+   text-align: center;
+    text-shadow:1px 1px 0 rgba(0, 0, 0, 0.75);
+	 
+	 padding: 0;
+   
+    color: #fff; 
+
+}
+
+.modal-body  p {
+	text-shadow:1px 1px 0 rgba(0, 0, 0, 0.75);
+}
+/**/
+.modal-cover {
+	 margin: 0px;
+	 padding: 0px;
+	 background: #000;
+	 opacity: 0.65;
+	
+}
+
+.modal-cover .overlay-content {
+  display: table;
+  height: 100%;
+  width: 100%;
+   padding: 10px;
+    color: lightyellow; 
+}
+.modal-cover .folio-info{
+	position: relative;
+  right: 0;
+  left: 0;
+  border-width: 0 0 1px;
+}
+ 
+.modal-cover .overlay-text {
+  display: table-cell;
+  vertical-align: middle;
+
+}
+
+ .modal-cover:hover {
+	  opacity: 0.8;
+	  -webkit-transition: all 0.8s ease-in-out;
+		transition: all 0.8s ease-in-out;
+	
+}
+.modal-cover:hover p{
+	  color: white; 
+	  -webkit-transition: all 0.8s ease-in-out;
+		transition: all 0.8s ease-in-out;
+	
+}
+.modal-cover:hover p{
+	  opacity: 1;
+	  -webkit-transition: all 0.8s ease-in-out;
+		transition: all 0.8s ease-in-out;
+	
+}
+
+#casabonita {
+	 -webkit-transition: all 0.8s ease-in-out;
+		transition: all 0.8s ease-in-out;
+}
+.modal-form-control {
+  background-color: transparent;
+  border-color: rgba(255,255,255,.1);
+  border-width: 1px;
+  height: 50px;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.form-control:hover {
+  color: white;
+}
