@@ -8,7 +8,7 @@
           content="CubaOutings is a tours company based in Cuba that mainly develops personalized sightseeing tours, round trips and excursions from Varadero to Havana and the rest of the Cuban historical or natural sites. It also provides services such as Tranfers Lodgings">
     <meta name="language" content="en"/>
     <meta name="author" content="">
-    <title><?php echo CHtml::encode($this->pageTitle); ?></title>
+    <title>Cubaoutings</title>
     <link href="<?php echo Yii::app()->theme->baseUrl; ?>/css/bootstrap.min.css" rel="stylesheet">
     <link href="<?php echo Yii::app()->theme->baseUrl; ?>/css/animate.min.css" rel="stylesheet">
     <link href="<?php echo Yii::app()->theme->baseUrl; ?>/css/font-awesome.min.css" rel="stylesheet">
@@ -1019,8 +1019,36 @@
 		<div class="overlay-content">
 				 <div class=" folio-info animated fadeInUp "  data-wow-duration="800ms" data-wow-delay="100ms" >										
 								
-					 <p> Try to discover the real Cuba visiting the cities around Varadero, explore Cuba under a new vision.</p >
-				   </div>
+					 <p> Try to discover the real Cuba visiting the cities around Varadero, explore Cuba under a new vision. You have the opportunity to visit Matanzas, also called the city of the bridges and the Athens of Cuba. This gives you the chance to visit the Bellamar cave, full of myths and legends and the pharmaceutical museum. a drive through the country side shows how the farmers live in Cuba, and makes our way to Cardenas, a mixture of modern and neoclassical architecture.</p >
+				  
+				<div id="mvc-tour-program-En" class="text-left animated fadeInUp visible">
+									<p>
+						<strong>Schedule</strong></p>
+					<p>
+						<strong>09:00am- 04:00pm</strong></p>
+					<p>
+						- pick up in the hotel</p>
+					<p>
+						- Tour guide in the proper language</p>
+					<p>
+						- Drive to Matanzas boarding the Atlantic Ocean</p>
+					<p>
+						- Tour through Matanzas city (Vigia Square, liberation square, Hermita de Monserrate for the excellent view, farmers market and free time in the boulevard)</p>
+					<p>
+						- visit the Bellamar Cave (optional with a cost of 5 cuc), one the biggest attractions in the outskirts of the city.</p>
+					<p>
+						- Lunch (optional, prices vary depending on people&#39;s interests)</p>
+					<p>
+						- Drive through the country side to get to Cardenas (through the Guamacaro valley)</p>
+					<p>
+						- Tour through Cardenas city (monument to the bicycle, land crab and horse buggy, stop in the Columbus Park, plaza Malakoff and free time)</p>
+					<p>
+						- Drive back to Varadero and sightseeing tour through the peninsula.&nbsp;&nbsp;&nbsp;</p>
+					<br>
+
+				</div>
+
+				  </div>
 		    <div id="bookitmcv-En" class=" folio-info animated fadeInUp collapse "  data-wow-duration="1000ms" data-wow-delay="300ms">
 			<hr style="height: 1px; margin: 25px 10px"></hr>
 					<form id="main-contact-form-CasaBonita-En"  name="contact-form-CasaBotina-En" method="post" action="<?php echo Yii::app()->theme->baseUrl; ?>/sendemail.php">
@@ -1059,7 +1087,7 @@
 									<div class="row   fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
 										<div class="col-sm-3 col-sm-offset-1">
 											<div class="form-group">
-										   <a class="btn btn-default btn-submit-cancel " onclick="visibilityString('bookitmcv-En',false)" >Cancel</a>
+										   <a class="btn btn-default btn-submit-cancel " onclick="visibilityString42('bookitmcv-En',false,'mvc-tour-program-En',true)" >Cancel</a>
 										
 										   </div>
 										</div>
@@ -1082,7 +1110,7 @@
 
         <div id="casabonita-footer-En" class="modal-footer visible">
           <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-          <button type="button" class="btn btn-primary" onclick="visibilityString('bookitmcv-En',true)" >Book it!</button>
+          <button type="button" class="btn btn-primary" onclick="visibilityString42('bookitmcv-En',true,'mvc-tour-program-En',false)" >Book it!</button>
         </div>
 		
       </div><!-- /.modal-content -->
@@ -1104,7 +1132,34 @@
 		<div class="overlay-content">
 				 <div   class=" folio-info fadeInUp"  >										
 								
-										 <p> Descubra la verdadera Cuba mediante una visita a las ciudades aledañas de Varadero.</p >
+										 <p> Descubra la verdadera Cuba mediante una visita a las ciudades aledañas de Varadero.Usted tendrá la posibilidad de visitar Matanzas que es también conocida con la ciudad de los puentes o también la Atenas de Cuba. Ahí podrá Usted ir a la cueva de Bellamar, un sitio repleto de mitos y leyendas, así como el museo farmacéutico. Un viaje por el campo le permitirá apreciar también el modo de vida los campesinos en Cuba, y así su camino hacia Cárdenas será una mezcla de arquitectura moderna y neoclásica.</p >
+										 
+										 <div id="mvc-tour-program-Es" class="text-left animated fadeInUp visible">
+										 <p class="MsoNormal" style="text-align:justify">
+												<strong><span lang="ES" style="font-size: 12pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Programa:</span></strong></p>
+											<p class="MsoNormal" style="text-align:justify">
+												<span lang="ES" style="font-size: 12pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">08:00am-06:00pm</span></p>
+											<p>
+												<span lang="ES" style="font-size:12.0pt;line-height:115%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">- Recogida al Hotel</span></p>
+											<p>
+												<span lang="ES" style="font-size:12.0pt;line-height:115%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">-Cerca de dos horas de viaje hasta la Habana bordando el litoral norte.</span></p>
+											<p>
+												<span lang="ES" style="font-size:12.0pt;line-height:115%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">-Paseo por la Habana vieja declarada sitio de patrimonio mundial por la UNESCO en 1982, (la Plaza de Arma, la Plaza de la catedral, la Plaza San Francisco de As&iacute;s, el Hotel y Bar Hemingway)</span></p>
+											<p>
+												<span lang="ES" style="font-size:12.0pt;line-height:115%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">-Tiempo libre (se puede visitar el mercado de artesan&iacute;a)</span></p>
+											<p>
+												<span lang="ES" style="font-size:12.0pt;line-height:115%;font-family:&quot;Arial&quot;,&qquot;sans-serif&quot;">-Almuerzo (los precios var&iacute;an seg&uacute;n el restaurante)</span></p>
+											<p>
+												<span lang="ES" style="font-size:12.0pt;line-height:115%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">-Recorrido por la nueva Habana (tratando de cubrir el mayor n&uacute;mero de lugares posible como el Vedado y Miramar, ya que es bastante grande.)</span></p>
+											<p>
+												<span lang="ES" style="font-size:12.0pt;line-height:115%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">-Parada en la Plaza de la Revoluci&oacute;n</span></p>
+											<p>
+												<span lang="ES" style="font-size:12.0pt;line-height:115%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">-Parada en el Capitolio</span></p>
+											<p>
+												-<span lang="ES" style="font-size:12.0pt;line-height:115%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Parada en el Varadero</span></p>
+											<br>
+
+										 </div>
 				   </div>
 		    <div id="bookitmcv-Es" class=" fadeInUp collapse " data-wow-duration="1000ms" data-wow-delay="300ms">
 			<hr style="height: 1px; margin: 25px 10px"></hr>
@@ -1144,7 +1199,7 @@
 									<div class="row   fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
 										<div class="col-sm-3 col-sm-offset-1">
 											<div class="form-group">
-										   <a class="btn btn-default btn-submit-cancel " onclick="visibilityString('bookitmcv-Es',false)" >Cancelar</a>
+										   <a class="btn btn-default btn-submit-cancel " onclick="visibilityString42('bookitmcv-Es',false,'mvc-tour-program-Es',true)" >Cancelar</a>
 										
 										   </div>
 										</div>
@@ -1165,7 +1220,7 @@
       
 		<div  class="modal-footer">
           <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
-          <button type="button" class="btn btn-primary" onclick="visibilityString('bookitmcv-Es',true)" >Reserve!</button>
+          <button type="button" class="btn btn-primary" onclick="visibilityString42('bookitmcv-Es',true,'mvc-tour-program-Es',false)" >Reserve!</button>
         </div>
       </div><!-- /.modal-content -->
     </div><!-- /.modal-dialog -->
@@ -1184,7 +1239,37 @@
 		<div class="overlay-content">
 				 <div class=" folio-info animated fadeInUp "  data-wow-duration="800ms" data-wow-delay="100ms" >										
 								
-					 <p> Travel around the cuban landscapes, to visit the two most interesting cities of Cuba central region.</p >
+					 <p> Get a ride through the green country side to visit the best two cities of the central part of Cuba. They are so perfectly preserved that we can see the features of a Spanish colonization on its very architecture. Cienfuegos, also called “the Pearl of the South”, founded by the French in 1819 is the perfect city to enjoy a neoclassical architecture and the city itself that was built along one of the most beautiful bays in the Caribbean Sea. Trinidad is the city that takes your imagination back in time because of the well preservation of the buildings. It was the third village founded by the Spanish people in Cuba and declared World Heritage Site by UNESCO in 1988</p >
+				   <div id="trinidadc-tour-program-En" class="text-left animated fadeInUp visible">
+														   <p>
+											<strong>Program</strong></p>
+										<p>
+											06:30am- 07:00pm</p>
+										<p style="margin-left:18.0pt;">
+											Pick up in the hotel at 06:30am</p>
+										<ul>
+											<li>
+												Drive for around three hour through the country side to Cienfuegos. Seeing all kinds of plantations and farms(stop for a break)</li>
+											<li>
+												City tour in Cienfuegos. (visiting the heart of the city that includes the Jose Marti park to see where the city was founded, the Thomas Terri theatre, the Arch Triumph, the city hall, the former Spanish casino,&nbsp; the cathedral, and free time in the boulevard)</li>
+											<li>
+												&nbsp;Visit the area of Punta Gorda(the newer&nbsp; place that was built under the American influence)the Valle Palace and the Jagua Hotel</li>
+											<li>
+												Drive to Trinidad(along the Caribbean Sea and enjoy the view to the mountain range &ldquo;the Guamuaya Group&rdquo; &nbsp;&nbsp;</li>
+											<li>
+												Lunch at Trinidad(there are different choices)</li>
+											<li>
+												Walking tour in the historical center (the Cathedral, Plaza Mayor, and Plaza &ldquo;El Jigue&rdquo;, former Basilica Saint Francis of Assisi, Cantero&rsquo;s Palace and Brunet&rsquo;s Palace that they are both museums)museums are optional, cost of 1.00 cuc</li>
+											<li>
+												Visit to the pottery maker&rsquo;s house</li>
+											<li>
+												Free time for further walking or souvenir market</li>
+											<li>
+												Return to Varadero</li>
+										</ul>
+										<br>
+								</div>
+				   
 				   </div>
 		    <div id="bookitttrinidadc-En" class=" folio-info animated fadeInUp collapse "  data-wow-duration="1000ms" data-wow-delay="300ms">
 			<hr style="height: 1px; margin: 25px 10px"></hr>
@@ -1224,7 +1309,7 @@
 									<div class="row   fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
 										<div class="col-sm-3 col-sm-offset-1">
 											<div class="form-group">
-										   <a class="btn btn-default btn-submit-cancel " onclick="visibilityString('bookitttrinidadc-En',false)" >Cancel</a>
+										   <a class="btn btn-default btn-submit-cancel " onclick="visibilityString42('bookitttrinidadc-En',false,'trinidadc-tour-program-En',true)" >Cancel</a>
 										
 										   </div>
 										</div>
@@ -1247,7 +1332,7 @@
 
         <div id="casabonita-footer-En" class="modal-footer visible">
           <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-          <button type="button" class="btn btn-primary" onclick="visibilityString('bookitttrinidadc-En',true)" >Book it!</button>
+          <button type="button" class="btn btn-primary" onclick="visibilityString42('bookitttrinidadc-En',true,'trinidadc-tour-program-En',false)" >Book it!</button>
         </div>
 		
       </div><!-- /.modal-content -->
@@ -1269,7 +1354,39 @@
 		<div class="overlay-content">
 				 <div   class=" folio-info fadeInUp"  >										
 								
-										 <p> Viaje a través de la campiña cubana para visitar las dos más interesantes ciudades de la región central de Cuba.</p >
+										 <p> Viaje a través de la campiña cubana para visitar las dos más interesantes ciudades de la región central de Cuba.Son tan perfectamente conservadas que aun muestran elementos típicos de la arquitectura colonial española.</p >
+				   
+											<p>		La ciudad de Cienfuegos, también conocida como la “Perla del Sur”, fundada por los franceses en 1819 es una ciudad ideal para apreciar una arquitectura neoclásica, la cual se construyo a lo largo de una de las más bellas bahías del Mar Caribe. Trinidad es la ciudad que le permite viajar en el tiempo gracias a sus construcciones que se encuentran aun bien conservadas. Fue la tercera villa fundada por los españoles en Cuba, y fue declarada Patrimonio de la Humanidad por la UNESCO en 1988.</p >
+				  
+				<div  id="trinidadc-tour-program-Es"  class=" text-left animated fadeInUp visible"  >	
+															<p>
+												&nbsp;Programa:</p>
+											<p>
+												06-30am-07:00pm</p>
+											<p>
+												Recogida en el Hotel a las 06:30am</p>
+											<p>
+												-Recorrido de alrededor de tres horas a trav&eacute;s del campo hasta Cienfuegos, durante el cual se pueden observar diversas plantaciones y granjas (con un parada incluida)</p>
+											<p>
+												-Excursi&oacute;n en la ciudad de Cienfuegos. (Visita al centro de la ciudad que incluye el parque Jos&eacute; Mart&iacute; para ver el lugar de fundaci&oacute;n de la ciudad, el Teatro Thomas Terri, el Arca del Triunfo, El Palacio del Gobierno, el Antiguo casino espa&ntilde;ol, la catedral, y el bulevar, m&aacute;s tiempo &nbsp;libre)</p>
+											<p>
+												-Visita al &aacute;rea de Punta Gorda (la m&aacute;s nueva localidad construida bajo la influencia norteamericana) el Palacio del Valle, y el Hotel Jagua</p>
+											<p>
+												-Viaje a Trinidad (disfrutando la vista del mar Caribe y del segundo grupo monta&ntilde;oso m&aacute;s alto de cuba, &ldquo;grupo Guamuaya&rdquo;)</p>
+											<p>
+												-Almuerzo en Trinidad (existen varias opciones)</p>
+											<p>
+												-Paseo por el centro hist&oacute;rico (la Catedral; la Plaza Mayor; la Plaza &ldquo;El Jigue&rdquo;, antigua Bas&iacute;lica San Francisco de As&iacute;s; el Palacio Cantero y el Palacio Brunet. Estos dos &uacute;ltimos son museos cuya visita es opcional con solo 1.00 cuc)</p>
+											<p>
+												-Visita a la casa de un conocido cer&aacute;mista</p>
+											<p>
+												-Tiempo libre para paseo o compras en los mercados artesanales</p>
+											<p>
+												-Retorno a Varadero</p>
+											<br>
+
+				  </div>
+				   
 				   </div>
 		    <div id="bookitttrinidadc-Es" class=" fadeInUp collapse " data-wow-duration="1000ms" data-wow-delay="300ms">
 			<hr style="height: 1px; margin: 25px 10px"></hr>
@@ -1309,7 +1426,7 @@
 									<div class="row   fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
 										<div class="col-sm-3 col-sm-offset-1">
 											<div class="form-group">
-										   <a class="btn btn-default btn-submit-cancel " onclick="visibilityString('bookitttrinidadc-Es',false)" >Cancelar</a>
+										   <a class="btn btn-default btn-submit-cancel " onclick="visibilityString42('bookitttrinidadc-Es',false,'trinidadc-tour-program-Es',true)" >Cancelar</a>
 										
 										   </div>
 										</div>
@@ -1330,7 +1447,7 @@
       
 		<div  class="modal-footer">
           <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
-          <button type="button" class="btn btn-primary" onclick="visibilityString('bookitttrinidadc-Es',true)" >Reserve!</button>
+          <button type="button" class="btn btn-primary" onclick="visibilityString42('bookitttrinidadc-Es',true,'trinidadc-tour-program-Es',false)" >Reserve!</button>
         </div>
       </div><!-- /.modal-content -->
     </div><!-- /.modal-dialog -->
@@ -1349,8 +1466,37 @@
 		<div class="overlay-content">
 				 <div class=" folio-info animated fadeInUp "  data-wow-duration="800ms" data-wow-delay="100ms" >										
 								
-					 <p> The Tropicana Cabaret was opened on 1939 as the world wide fanciest night-club.</p >
-				   </div>
+					 <p> Tropicana was opened in 1939 as the most flamboyant night club in the world. It worked as a casino in the 50s with a new showroom the “Salon Arcos De Cristales”. International celebrities such as Nat “King” Cole, Josephine Baker, and Carmen Miranda headlined the show. Nowadays it is still the best cabaret in the island. The more than 200 performers are hand-picked from the crème-de-la-crème of Cuba’s dancers and singers.  Do not miss the chance to meet the “paradise under the star” with most of the Cuban rhythms and dances such as danzon, dansonete, chachacha, rumba, meringue, salsa among others.</p >
+				  <div id="tropicana-tour-program-En" class=" text-left folio-info animated fadeInUp visible" >
+											  <p>
+								<strong>Program:</strong></p>
+							<ul>
+								<li>
+									Pick up in the hotel at 8:30am</li>
+								<li>
+									Close to two hours driving to Havana along the coast</li>
+								<li>
+									Walking tour in the old Havana, declared world heritage site by UNESCO in 1982, (arm square, cathedral square, San Francisco de Asis square, Hemingway Hotel and bar)</li>
+								<li>
+									Free time(we could visit the craft market)</li>
+								<li>
+									Lunch(prices vary depending on people&rsquo;s choice)</li>
+								<li>
+									Tour through new Havana (trying to cover most of it from the car, due to they are not walking distances. Mainly Vedado and Miramar)</li>
+								<li>
+									Stop in the Revolution Square</li>
+								<li>
+									Stop in the Capitol Building</li>
+								<li>
+									Diner</li>
+								<li>
+									Visit Tropicana (the guest pays for the cover there at the cabaret)</li>
+								<li>
+									After the show, drive back to Varadero</li>
+							</ul>
+							<br>
+					</div>
+				  </div>
 		    <div id="bookittropicana-En" class=" folio-info animated fadeInUp collapse "  data-wow-duration="1000ms" data-wow-delay="300ms">
 			<hr style="height: 1px; margin: 25px 10px"></hr>
 					<form id="main-contact-form-CasaBonita-En"  name="contact-form-CasaBotina-En" method="post" action="<?php echo Yii::app()->theme->baseUrl; ?>/sendemail.php">
@@ -1389,7 +1535,7 @@
 									<div class="row   fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
 										<div class="col-sm-3 col-sm-offset-1">
 											<div class="form-group">
-										   <a class="btn btn-default btn-submit-cancel " onclick="visibilityString('bookittropicana-En',false)" >Cancel</a>
+										   <a class="btn btn-default btn-submit-cancel " onclick="visibilityString42('bookittropicana-En',false,'tropicana-tour-program-En',true)" >Cancel</a>
 										
 										   </div>
 										</div>
@@ -1412,7 +1558,7 @@
 
         <div id="casabonita-footer-En" class="modal-footer visible">
           <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-          <button type="button" class="btn btn-primary" onclick="visibilityString('bookittropicana-En',true)" >Book it!</button>
+          <button type="button" class="btn btn-primary" onclick="visibilityString42('bookittropicana-En',true,'tropicana-tour-program-En',false)" >Book it!</button>
         </div>
 		
       </div><!-- /.modal-content -->
@@ -1434,7 +1580,40 @@
 		<div class="overlay-content">
 				 <div   class=" folio-info fadeInUp"  >										
 								
-										 <p> El Cabaret Tropicana se abrió en el 1939 como el club nocturno de mayor brillo a nivel mundial.</p >
+										 <p> El Cabaret Tropicana se abrió en el 1939 como el club nocturno de mayor brillo a nivel mundial. Funcionó como casino en los años 50 con una nueva sala de espectáculo, el “Salón Arcos de Cristales”. Celebridades internacionales como Nat “King” Cole, Josephine Baker, y Carmen Miranda han protagonizado espectáculos allí. En la actualidad, sigue siendo el mejor cabaret de la isla. Los más de 200 artistas son rigorosamente seleccionados dentro de los mejores de los mejores de los bailarines y cantantes cubanos. No pierda la oportunidad de descubrir el “paraíso bajo las estrellas” con la mayoría de los ritmos y danzas cubanas como el danzón, el dansonete, el chachachá, la rumba, el merengue, la salsa, entre otros.</p >
+				   
+				    <div id="tropicana-tour-program-Es"  class="text-left animated fadeInUp visible"  >	
+							<p>
+								Programa:</p>
+							<p>
+								-Recogida al hotel a las 8:30am</p>
+							<p>
+								-Cerca de dos horas de viaje hasta la Habana a lo largo de la costa del atl&aacute;ntico</p>
+							<p>
+								&nbsp;-Paseo en la Habana vieja declarada patrimonio de la Humanidad por la UNESCO en 1982, (la Plaza de Arma, la Plaza de la Catedral, la Plaza San Francisco de As&iacute;s, la Plaza Vieja, el Hotel y Bar Hemingway)</p>
+							<p>
+								&nbsp;-Tiempo libre (Se pudiera visitar el Mercado de artesan&iacute;a)</p>
+							<p>
+								&nbsp;-Almuerzo (los precios var&iacute;an seg&uacute;n la elecci&oacute;n del cliente)</p>
+							<p>
+								&nbsp;-Excursi&oacute;n a trav&eacute;s de la nueva Habana (tratando de recorrer el mayor n&uacute;mero posible de lugares desde el carro, debido a que son largas distancias, principalmente los barrios del Vedado y Miramar)</p>
+							<p>
+								&nbsp;- Parada en la Plaza de la Revoluci&oacute;n</p>
+							<p>
+								&nbsp;-Parada en el Capitolio</p>
+							<p>
+								&nbsp;-Cena (tambi&eacute;n a elecci&oacute;n del cliente)</p>
+							<p>
+								&nbsp;-Visita al Tropicana (el invitado paga por el cover all&iacute; mismo en el cabaret)</p>
+							<p>
+								&nbsp;-Despu&eacute;s del espect&aacute;culo, viaje de retorno a Varadero</p>
+							<p class="alert alert-dismissable alert-warning">
+								Nota: Somos muy flexibles. Estamos abiertos a cualquier modificaci&oacute;n que Ud. Desear&iacute;a incluir en el programa, ya sea visitar &uacute;nicamente el Tropicana o cambiar la hora de recogida,&hellip; solo h&aacute;ganos saber su preferencia.</p>
+							<br>
+
+					
+					</div>
+				   
 				   </div>
 		    <div id="bookittropicana-Es" class=" fadeInUp collapse " data-wow-duration="1000ms" data-wow-delay="300ms">
 			<hr style="height: 1px; margin: 25px 10px"></hr>
@@ -1474,7 +1653,7 @@
 									<div class="row   fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
 										<div class="col-sm-3 col-sm-offset-1">
 											<div class="form-group">
-										   <a class="btn btn-default btn-submit-cancel " onclick="visibilityString('bookittropicana-Es',false)" >Cancelar</a>
+										   <a class="btn btn-default btn-submit-cancel " onclick="visibilityString42('bookittropicana-Es',false,'tropicana-tour-program-Es',true)" >Cancelar</a>
 										
 										   </div>
 										</div>
@@ -1495,7 +1674,7 @@
       
 		<div  class="modal-footer">
           <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
-          <button type="button" class="btn btn-primary" onclick="visibilityString('bookittropicana-Es',true)" >Reserve!</button>
+          <button type="button" class="btn btn-primary" onclick="visibilityString42('bookittropicana-Es',true,'tropicana-tour-program-Es',false)" >Reserve!</button>
         </div>
       </div><!-- /.modal-content -->
     </div><!-- /.modal-dialog -->
@@ -1514,8 +1693,35 @@
 		<div class="overlay-content">
 				 <div class=" folio-info animated fadeInUp "  data-wow-duration="800ms" data-wow-delay="100ms" >										
 								
-										 <p> The southern region of Matanzas provides excellent places to spent the day and enjoy a natural enviroment.</p >
-				   </div>
+										 <p> The southern region of Matanzas provides excellent places to spent the day and enjoy a natural enviroment.  Zapata peninsula is the Cuba’s most important wetland area and deservedly declared National Park. The area shows very diverse and complex ecosystems with more 900 species of flora, 171 species of birds, 31 of reptiles and 12 mammals. The most primitive of Cuban fish is easily seen in the Laguna del Tesoro (the second biggest lake in Cuba). Get the chance to enjoy the Cuba’s most important crocodile farm.  And enjoying a boat ride across the lake we get to an island that depicts the Cuban Indians engaged in daily activities. Just a bit more south we get to the bay of pigs, to enjoy not only a beautiful beach but a place full of history.</p >
+				  
+							<div id="guama-tour-program-En" class=" text-left animated fadeInUp visible "  data-wow-duration="800ms" data-wow-delay="100ms" >
+															<p>
+									<strong>Program</strong></p>
+								<p>
+									-Pick up in the hotel at 8:00</p>
+								<p>
+									-Leave Varadero heading south through the country side</p>
+								<p>
+									- Enjoy the green landscape and the different crops we grow in Cuba</p>
+								<p>
+									- Stop in &ldquo;La Finquita&rdquo; for a break (there you can try sugar cane juice)</p>
+								<p>
+									- Go through Australia town where Castro set up his military headquarter during the Bay of Pigs invasion</p>
+								<p>
+									- Stop in la Boca de Guama (optional with an extra charge visit the crocodile farm and/or the village representing the Cuban natives)</p>
+								<p>
+									- Lunch in a restaurant nearby that offers crocodile meat, deer, crab, fish, bore meat (prices vary depending on choices)</p>
+								<p>
+									- Drive to the Bay of Pigs to enjoy the beach (free time to swim)</p>
+								<p>
+									- Visit Cave of the Fish (free time to swim)</p>
+								<p>
+									- Return to Varadero</p>
+								<br>
+
+							 </div>
+				  </div>
 		    <div id="bookitguama-En" class=" folio-info animated fadeInUp collapse "  data-wow-duration="1000ms" data-wow-delay="300ms">
 			<hr style="height: 1px; margin: 25px 10px"></hr>
 					<form id="main-contact-form-CasaBonita-En"  name="contact-form-CasaBotina-En" method="post" action="<?php echo Yii::app()->theme->baseUrl; ?>/sendemail.php">
@@ -1548,13 +1754,13 @@
 												<div class="form-group">
 													<textarea name="message" id="message" class="form-control" rows="4"  placeholder="Anything else..." ></textarea>
 												</div>
-												<input  name="accommodation" class="collapse" placeholder="Accommodation" value="Havana Tour (Tour)">
+												<input  name="accommodation" class="collapse" placeholder="Accommodation" value="Guamá & la Bahía de Cochinos (Tour)">
 											</div>
 									</div>
 									<div class="row   fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
 										<div class="col-sm-3 col-sm-offset-1">
 											<div class="form-group">
-										   <a class="btn btn-default btn-submit-cancel " onclick="visibilityString('bookitguama-En',false)" >Cancel</a>
+										   <a class="btn btn-default btn-submit-cancel " onclick="visibilityString42('bookitguama-En',false,'guama-tour-program-En',true)" >Cancel</a>
 										
 										   </div>
 										</div>
@@ -1577,7 +1783,7 @@
 
         <div id="casabonita-footer-En" class="modal-footer visible">
           <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-          <button type="button" class="btn btn-primary" onclick="visibilityString('bookitguama-En',true)" >Book it!</button>
+          <button type="button" class="btn btn-primary" onclick="visibilityString42('bookitguama-En',true,'guama-tour-program-En',false)" >Book it!</button>
         </div>
 		
       </div><!-- /.modal-content -->
@@ -1597,9 +1803,34 @@
          <div   class="modal-body-guama ">
 		<div class="modal-cover" >		 
 		<div class="overlay-content">
-				 <div   class=" folio-info fadeInUp"  >										
+				 <div   class=" folio-info animated fadeInUp"  >										
 								
 										 <p> La parte sur de la provincia de Matanzas es un excelente lugar para pasar el día y disfrutar del entorno rural.</p >
+				    <div  id="guama-tour-program-Es" class=" text-left animated fadeInUp visible"  >	
+												   <p>
+									Programa</p>
+								<p>
+									-Recogida al hotel a las 8:00 am</p>
+								<p>
+									-Salida de Varadero rumbo a la regi&oacute;n sur transitando por el campo</p>
+								<p>
+									- Disfrute del paisaje verde y de la diversidad de cultivos existentes en Cuba</p>
+								<p>
+									- Parada en &ldquo;La Finquita&rdquo; para una pausa (ah&iacute; puede Ud saborear el jugo de ca&ntilde;a de az&uacute;car conocido localmente como &ldquo;guarapo&rdquo;)</p>
+								<p>
+									- Tr&aacute;nsito por el pueblo de Australia donde cuenta la historia que Fidel Castro estableci&oacute; su cuartel general durante la invasi&oacute;n de Bah&iacute;a de Cochinos.</p>
+								<p>
+									- Parada en la Boca de Guama (opcional con pago adicional para visita al criadero de cocodrilo y/o la aldea representativa de la poblaci&oacute;n aut&oacute;ctona cubana)</p>
+								<p>
+									- Almuerzo en un restaurante en la cercan&iacute;a, con oferta de carne de cocodrilo, venado, cangrejo, pescado, carne de jabal&iacute; (los precios var&iacute;an seg&uacute;n la elecci&oacute;n del cliente)</p>
+								<p>
+									- Viaje hasta la Bah&iacute;a de Cochinos para disfrutar de la playa (tiempo libre para tirarse al agua)</p>
+								<p>
+									- Visita a la Cueva de los peces (Tiempo libre para nadar)</p>
+								<p>
+									- Regreso a Varadero</p>
+								<br>
+
 				   </div>
 		    <div id="bookitguama-Es" class=" fadeInUp collapse " data-wow-duration="1000ms" data-wow-delay="300ms">
 			<hr style="height: 1px; margin: 25px 10px"></hr>
@@ -1639,7 +1870,7 @@
 									<div class="row   fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
 										<div class="col-sm-3 col-sm-offset-1">
 											<div class="form-group">
-										   <a class="btn btn-default btn-submit-cancel " onclick="visibilityString('bookitguama-Es',false)" >Cancelar</a>
+										   <a class="btn btn-default btn-submit-cancel " onclick="visibilityString42('bookitguama-Es',false,'guama-tour-program-Es',true)" >Cancelar</a>
 										
 										   </div>
 										</div>
@@ -1660,7 +1891,7 @@
       
 		<div  class="modal-footer">
           <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
-          <button type="button" class="btn btn-primary" onclick="visibilityString('bookitguama-Es',true)" >Reserve!</button>
+          <button type="button" class="btn btn-primary" onclick="visibilityString42('bookitguama-Es',true,'guama-tour-program-Es',false)" >Reserve!</button>
         </div>
       </div><!-- /.modal-content -->
     </div><!-- /.modal-dialog -->
@@ -1679,8 +1910,45 @@
 		<div class="overlay-content">
 				 <div class=" folio-info animated fadeInUp "  data-wow-duration="800ms" data-wow-delay="100ms" >										
 								
-					 <p> Live the fulliest tour covering the whole cuban central region.</p >
-				   </div>
+					 <p> Get the most complete tour that covers the central part of Cuba.  Have the chance to visit two perfectly preserved cities where we can see the features of a Spanish colonization on its very architecture. Cienfuegos, also called “the Pearl of the South”, founded by the French in 1819 is the perfect city to enjoy a neoclassical architecture and the city itself that was built along one of the most beautiful bays in the Caribbean Sea. Trinidad is the city that takes your imagination back in time because of the well preservation of the buildings. It was the third village founded by the Spanish people in Cuba and declared World Heritage Site by UNESCO in 1988. Moreover, you get to visit Santa Clara, where you can discover the life of Che Guevara, such an interesting and outstanding personality.</p >
+				   
+				    <div id="threecities-tour-program-En" class=" text-left animated fadeInUp visible "   >
+					<p >
+						<strong>Program:</strong></p>
+					<p >
+						<strong>6:30am-8:30pm</strong></p>
+					<ul>
+						<li>
+							Pickup in the hotel at 6:30am</li>
+						<li>
+							drive south through the country side for a little bit more than 1 hour enjoying the farms and the different plantations (all different crops)</li>
+						<li>
+							stop for a break in Australia town and continue heading to Santa Clara</li>
+						<li>
+							visit the impressive Che Guevara Square, central park &ldquo;Leoncio Vidal&rdquo;, and&nbsp; the Armoured Train Monument</li>
+						<li>
+							Enjoy a drive through the Escambray mountain range (famous because the counter-revolutionaries were hidden there) to get to Trinidad.&nbsp;</li>
+						<li>
+							Lunch at Trinidad(there are different choices)</li>
+						<li>
+							Walking tour in the historical center (the Cathedral, Plaza Mayor, and Plaza &ldquo;El Jigue&rdquo;, former Basilica Saint Francis of Assisi, Cantero&rsquo;s Palace and Brunet&rsquo;s Palace that are both museums)museums are optional, cost of 1.00 cuc</li>
+						<li>
+							Visit to the pottery maker&rsquo;s house</li>
+						<li>
+							Free time for further walking or souvenir market</li>
+						<li>
+							Drive along the Caribbean Sea to get to Cienfuegos City</li>
+						<li>
+							City tour in Cienfuegos. (visiting the heart of the city that includes the Jose Marti park to see where the city was founded, the Thomas Terri theatre, the Arch Triumph, the city hall, the former Spanish casino,&nbsp; the cathedral, and free time in the boulevard)</li>
+						<li>
+							&nbsp;Visit the area of Punta Gorda(the newer&nbsp; place that was built under the American influence)the Valle Palace and the Jagua Hotel</li>
+						<li>
+							Drive back to Varadero</li>
+					</ul>
+					<br>
+
+					</div>
+				    </div>
 		    <div id="bookitthreecities-En" class=" folio-info animated fadeInUp collapse "  data-wow-duration="1000ms" data-wow-delay="300ms">
 			<hr style="height: 1px; margin: 25px 10px"></hr>
 					<form id="main-contact-form-CasaBonita-En"  name="contact-form-CasaBotina-En" method="post" action="<?php echo Yii::app()->theme->baseUrl; ?>/sendemail.php">
@@ -1719,7 +1987,7 @@
 									<div class="row   fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
 										<div class="col-sm-3 col-sm-offset-1">
 											<div class="form-group">
-										   <a class="btn btn-default btn-submit-cancel " onclick="visibilityString('bookitthreecities-En',false)" >Cancel</a>
+										   <a class="btn btn-default btn-submit-cancel " onclick="visibilityString42('bookitthreecities-En',false,'threecities-tour-program-En',true)" >Cancel</a>
 										
 										   </div>
 										</div>
@@ -1742,7 +2010,7 @@
 
         <div id="casabonita-footer-En" class="modal-footer visible">
           <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-          <button type="button" class="btn btn-primary" onclick="visibilityString('bookitthreecities-En',true)" >Book it!</button>
+          <button type="button" class="btn btn-primary" onclick="visibilityString42('bookitthreecities-En',true,'threecities-tour-program-En',false)" >Book it!</button>
         </div>
 		
       </div><!-- /.modal-content -->
@@ -1764,8 +2032,43 @@
 		<div class="overlay-content">
 				 <div   class=" folio-info fadeInUp"  >										
 								
-										 <p> Tenga Usted la más completa excursión que abarca la región central de Cuba.</p >
-				   </div>
+										 <p> Tenga Usted la más completa excursión que abarca la región central de Cuba. Recorra todo el campo verde para visitar dos ciudades tan perfectamente conservadas que aun muestran elementos típicos de la arquitectura colonial española. La ciudad de Cienfuegos, también conocida como la “Perla del Sur”, fundada por los franceses en 1819 es una ciudad ideal para apreciar una arquitectura neoclásica; esa misma ciudad ha sido construida a lo largo de una de las más bellas bahías del Mar Caribe. Trinidad es la ciudad que le permite viajar en el tiempo gracias a sus construcciones que se encuentran aun bien conservadas. Fue la tercera villa fundada por los españoles en Cuba, y fue inscrita en la Lista de Patrimonios de la Humanidad por la UNESCO en 1988. También Ud. podrá visitar Santa Clara donde tendrá la oportunidad de conocer sobre la vida del Ché Guevara, esta icónica personalidad tan única e interesante.</p >
+						<div id="threecities-tour-program-Es"  class=" text-left animated fadeInUp visible"  >					  
+						  <p>
+								<strong>Programa:</strong></p>
+							<p>
+								6:30am-8:30pm</p>
+							<p>
+								&nbsp;Recogida al hotel a las 6:30am</p>
+							<p>
+								-Viaje hacia el sur durante un poco m&aacute;s de una hora, disfrutando de los campos y las distintas plantaciones (todos los&nbsp; cultivos diversos)</p>
+							<p>
+								-Parada para una pausa en la aldea de Australia, y luego prosigue el viaje rumbo a Santa Clara</p>
+							<p>
+								-Visite la impresionante Plaza del Ch&eacute; Guevara, el Parque central &ldquo;Leoncio Vidal&rdquo;, y el Monumento del Tren blindado.</p>
+							<p>
+								-Disfrute del viaje por la sierra del Escambray (famosa por haber servido de escondite a las bandas contrarrevolucionarias) para llegar a Trinidad.</p>
+							<p>
+								-Almuerzo en Trinidad (all&iacute; existen variedades de ofertas)</p>
+							<p>
+								- Paseo por el centro hist&oacute;rico (la Catedral, la Plaza Mayor, la Plaza &ldquo;El Jig&uuml;e&rdquo;, la antigua Bas&iacute;lica San Francisco de As&iacute;s, el Palacio de Cantero y el Palacio Brunet que son ambos, museos); los museos son opcionales y cuestan 1.00 cuc</p>
+							<p>
+								-Visita a la casa de los fabricantes de cer&aacute;mica.</p>
+							<p>
+								-Tiempo libre para m&aacute;s paseo o visita al Mercado artesanal&nbsp;&nbsp;&nbsp;</p>
+							<p>
+								-Viaje bordeando el mar Caribe para llegar a Cienfuegos.</p>
+							<p>
+								-Excusi&oacute;n a la ciudad de Cienfuegos (visita al centro de la ciudad que incluye el parque Jos&eacute; Mart&iacute; para conocer el lugar donde se fund&oacute; la ciudad, el Teatro&nbsp; Thomas Terri, Arco de triunfo, el palacio del gobierno, el antiguo casino espa&ntilde;ol, la catedral, y tiempo libre en el boulevard).</p>
+							<p>
+								-Visite el &Aacute;rea de Punta Gorda (el nuevo sitio construido bajo la influencia estadounidense) el Palacio el Valle y el Hotel Jagua.</p>
+							<p>
+								-Viaje retorno a Varadero</p>
+							<br>
+
+						  
+						  </div>
+				  </div>
 		    <div id="bookitthreecities-Es" class=" fadeInUp collapse " data-wow-duration="1000ms" data-wow-delay="300ms">
 			<hr style="height: 1px; margin: 25px 10px"></hr>
 					<form id="main-contact-form-CasaBonita-Es"  name="contact-form-CasaBonita-ES" method="post" action="<?php echo Yii::app()->theme->baseUrl; ?>/sendemail.php">
@@ -1804,7 +2107,7 @@
 									<div class="row   fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
 										<div class="col-sm-3 col-sm-offset-1">
 											<div class="form-group">
-										   <a class="btn btn-default btn-submit-cancel " onclick="visibilityString('bookitthreecities-Es',false)" >Cancelar</a>
+										   <a class="btn btn-default btn-submit-cancel " onclick="visibilityString42('bookitthreecities-Es',false,'threecities-tour-program-Es',true)" >Cancelar</a>
 										
 										   </div>
 										</div>
@@ -1825,7 +2128,7 @@
       
 		<div  class="modal-footer">
           <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
-          <button type="button" class="btn btn-primary" onclick="visibilityString('bookitthreecities-Es',true)" >Reserve!</button>
+          <button type="button" class="btn btn-primary" onclick="visibilityString42('bookitthreecities-Es',true,'threecities-tour-program-Es',false)" >Reserve!</button>
         </div>
       </div><!-- /.modal-content -->
     </div><!-- /.modal-dialog -->
@@ -2009,7 +2312,38 @@
 		<div class="overlay-content">
 				 <div class=" folio-info animated fadeInUp "  data-wow-duration="800ms" data-wow-delay="100ms" >										
 								
-					 <p> Exactly at 9:00 pm, part of the old Havana moves by the sound of a cannon shot from San Carlos de la Cabaña's fortress after a beautiful ceremony.</p >
+					 <p> At 9 O’clock pm part of the old Havana is shaken by the sound of cannon fired from the fortress of San Carlos de la Cabaña. The ceremony is carried on by a squad of soldiers dressed in red and yellow-gold of the Spanish colonial army. They march towards the cannon, load it with gunpowder and light that the fuse. This beautiful and historical ceremony takes place everyday now in front of lots of tourists. However, it was an actual military procedure to announce the opening and closing of the wall gates.</p >
+				   
+				   <div id="cannonshot-tour-program-En" class=" text-left animated fadeInUp visible"  data-wow-duration="800ms" data-wow-delay="100ms" >	
+				   <p>
+							<strong>Program:</strong></p>
+						<ul>
+							<li>
+								Pick up in the hotel at 8:30am</li>
+							<li>
+								Close to two hours driving to Havana along the coast</li>
+							<li>
+								Walking tour in the old Havana, declared world heritage site by UNESCO in 1982, (arm square, cathedral square, San Francisco de Asis square, Hemingway Hotel and bar)</li>
+							<li>
+								Free time(we could visit the craft market)</li>
+							<li>
+								Lunch(prices vary depending on people&rsquo;s choice)</li>
+							<li>
+								Tour through new Havana (trying to cover most of it from the car, due to they are not walking distances. Mainly Vedado and Miramar)</li>
+							<li>
+								Stop in the Revolution Square</li>
+							<li>
+								Stop in the Capitol Building</li>
+							<li>
+								Diner(places and prices depend on people&rsquo;s choice)</li>
+							<li>
+								Visit the fortress to enjoy &ldquo; El Ca&ntilde;onazo de las nueves&rdquo;(the nine o&rsquo;clock cannon shot) ceremony</li>
+							<li>
+								Drive back to Varadero</li>
+						</ul>
+						<br>
+
+				     </div>
 				   </div>
 		    <div id="bookitcannonshot-En" class=" folio-info animated fadeInUp collapse "  data-wow-duration="1000ms" data-wow-delay="300ms">
 			<hr style="height: 1px; margin: 25px 10px"></hr>
@@ -2049,7 +2383,7 @@
 									<div class="row   fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
 										<div class="col-sm-3 col-sm-offset-1">
 											<div class="form-group">
-										   <a class="btn btn-default btn-submit-cancel " onclick="visibilityString('bookitcannonshot-En',false)" >Cancel</a>
+										   <a class="btn btn-default btn-submit-cancel " onclick="visibilityString42('bookitcannonshot-En',false,'cannonshot-tour-program-En',true)" >Cancel</a>
 										
 										   </div>
 										</div>
@@ -2072,7 +2406,7 @@
 
         <div id="casabonita-footer-En" class="modal-footer visible">
           <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-          <button type="button" class="btn btn-primary" onclick="visibilityString('bookitcannonshot-En',true)" >Book it!</button>
+          <button type="button" class="btn btn-primary" onclick="visibilityString42('bookitcannonshot-En',true,'cannonshot-tour-program-En',false)" >Book it!</button>
         </div>
 		
       </div><!-- /.modal-content -->
@@ -2094,7 +2428,38 @@
 		<div class="overlay-content">
 				 <div   class=" folio-info fadeInUp"  >										
 								
-					 <p> A las 9:00 pm, parte de la Habana vieja se mueve por el sonido del disparo de un cañón desde la fortaleza de San Carlos de la Cabaña.</p >
+					 <p> A las 9:00 pm, parte de la Habana vieja  se mueve por el sonido del disparo de un cañón desde la fortaleza de San Carlos de la Cabaña. La ceremonia es llevada a cabo por un escuadrón de soldados vestidos de rojo y amarillo-dorado al estilo del ejército colonial español. Esos soldados marchan hacia el cañón, lo cargan con pólvora y plomo ---. Esta bella e histórica ceremonia se desarrolla cada día actualmente frente a un gran número de turistas. Sin embargo, era en realidad un procedimiento militar que anunciaba el cierre de los portones de la ciudad.</p >
+				   <div  id="cannonshot-tour-program-Es" class=" text-left animated fadeInUp visible"  >	
+										   <p>
+							<strong>Programa:</strong></p>
+						<ul>
+							<li>
+								&nbsp;Recogida al hotel a las 8:30am</li>
+							<li>
+								&nbsp;Cerca de dos horas de viaje hacia la Habana bordeando la costa</li>
+							<li>
+								&nbsp;Paseo por la Habana vieja, declarada patrimonio de la Habana por la UNESCO en 1982, (la Plaza de Arma, la Plaza de la Catedral, la Plaza San Francisco de As&iacute;s, el Hotel y Bar Hemingway)</li>
+							<li>
+								Tiempo libre (se pudiera visitar el Mercado de artesan&iacute;a)</li>
+							<li>
+								Almuerzo (los precios var&iacute;an seg&uacute;n la elecci&oacute;n del cliente)</li>
+							<li>
+								Excursi&oacute;n a trav&eacute;s de la nueva Habana (tratando de recorrer el mayor n&uacute;mero posible de lugares desde el carro, debido a que son largas distancias, principalmente los barrios del Vedado y Miramar)</li>
+							<li>
+								Parada en la Plaza de la Revoluci&oacute;n</li>
+							<li>
+								Parada en el Capitolio</li>
+							<li>
+								Cena (los lugares y los precios dependen de la elecci&oacute;n del cliente)</li>
+							<li>
+								Visita a la Fortaleza para disfrutar del &ldquo;ca&ntilde;onazo de las nueve&rdquo;</li>
+							<li>
+								Viaje de retorno a Varadero</li>
+						</ul>
+						<br>
+
+				   
+				    </div>
 				   </div>
 		    <div id="bookitcannonshot-Es" class=" fadeInUp collapse " data-wow-duration="1000ms" data-wow-delay="300ms">
 			<hr style="height: 1px; margin: 25px 10px"></hr>
@@ -2134,7 +2499,7 @@
 									<div class="row   fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
 										<div class="col-sm-3 col-sm-offset-1">
 											<div class="form-group">
-										   <a class="btn btn-default btn-submit-cancel " onclick="visibilityString('bookitcannonshot-Es',false)" >Cancelar</a>
+										   <a class="btn btn-default btn-submit-cancel " onclick="visibilityString42('bookitcannonshot-Es',false,'cannonshot-tour-program-Es',true)" >Cancelar</a>
 										
 										   </div>
 										</div>
@@ -2155,7 +2520,7 @@
       
 		<div  class="modal-footer">
           <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
-          <button type="button" class="btn btn-primary" onclick="visibilityString('bookitcannonshot-Es',true)" >Reserve!</button>
+          <button type="button" class="btn btn-primary" onclick="visibilityString('bookitcannonshot-Es',true,'cannonshot-tour-program-Es',false)" >Reserve!</button>
         </div>
       </div><!-- /.modal-content -->
     </div><!-- /.modal-dialog -->
@@ -2255,7 +2620,7 @@
                             <div class="overlay-text">
                                 <div class="folio-info">
                                     <h3>Havana & Tropicana</h3>
-                                    <p>The Tropicana Cabaret was opened on 1939 as the world wide fanciest night-club.</p>
+                                    <p> Tropicana was opened in 1939 as the most flamboyant night club in the world.</p>
                                 </div>
                                 <div class="folio-overview">
                                      <span class="folio-link"><a title="Book it!..."   data-single_url="portfolio-single.html" onclick="$('#tropicana-En').modal('toggle')"><i class="fa fa-link"></i></a></span>
@@ -2301,7 +2666,7 @@
                             <div class="overlay-text">
                                 <div class="folio-info">
                                     <h3>Three Cities</h3>
-                                    <p> Live the fulliest tour covering the whole cuban central region.</p>
+                                    <p> Get the most complete tour that covers the central part of Cuba.</p>
                                 </div>
                                 <div class="folio-overview">
                                      <span class="folio-link"><a title="Book it!..."   data-single_url="portfolio-single.html" onclick="$('#threeCities-En').modal('toggle')"><i class="fa fa-link"></i></a></span>
