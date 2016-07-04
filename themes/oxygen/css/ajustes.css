@@ -505,6 +505,7 @@ li.active  a {
 
 .modal-body-threecities  {
   background-image: url(../images/portfolio/13-cienfuegos.jpg);
+  height: 100%;
    font-size: 16px;
    text-align: center;
     text-shadow:1px 1px 0 rgba(0, 0, 0, 0.75);
@@ -514,6 +515,90 @@ li.active  a {
     color: #fff; 
 
 }
+.modal-body-casalasvillas  {
+  background-image: url(../images/portfolio/verdeverde.jpg);
+   font-size: 16px;
+   text-align: center;
+    text-shadow:1px 1px 0 rgba(0, 0, 0, 0.75);
+	 
+	 padding: 0;
+   
+    color: #fff; 
+
+}
+.modal-body-doraida  {
+  background-image: url(../images/portfolio/11-cienfuegos.jpg);
+   font-size: 16px;
+   text-align: center;
+    text-shadow:1px 1px 0 rgba(0, 0, 0, 0.75);
+	 
+	 padding: 0;
+   
+    color: #fff; 
+
+}
+
+
+
+.modal-body-casacienfuegos  {
+  background-image: url(../images/portfolio/verde2.jpg);
+   font-size: 16px;
+   text-align: center;
+    text-shadow:1px 1px 0 rgba(0, 0, 0, 0.75);
+	 
+	 padding: 0;
+   
+    color: #fff; 
+
+}
+
+.modal-body-villaparaiso  {
+  background-image: url(../images/portfolio/verderoja.jpg);
+   font-size: 16px;
+   text-align: center;
+    text-shadow:1px 1px 0 rgba(0, 0, 0, 0.75);
+	 
+	 padding: 0;
+   
+    color: #fff; 
+
+}
+
+.modal-body-casaelencanto  {
+  background-image: url(../images/portfolio/11-cienfuegos1.jpg);
+   font-size: 16px;
+   text-align: center;
+    text-shadow:1px 1px 0 rgba(0, 0, 0, 0.75);
+	 
+	 padding: 0;
+   
+    color: #fff; 
+
+}
+.modal-body-casaazul  {
+  background-image: url(../images/portfolio/11-casaAzul.jpg);
+   font-size: 16px;
+   text-align: center;
+    text-shadow:1px 1px 0 rgba(0, 0, 0, 0.75);
+	 
+	 padding: 0;
+   
+    color: #fff; 
+
+}
+.modal-body-casafresa  {
+  background-image: url(../images/portfolio/CasaRosada.jpg);
+   font-size: 16px;
+   text-align: center;
+    text-shadow:1px 1px 0 rgba(0, 0, 0, 0.75);
+	 
+	 padding: 0;
+   
+    color: #fff; 
+
+}
+
+
 
 .modal-body-guama  {
   background-image: url(../images/portfolio/guanma.jpg);
@@ -590,6 +675,18 @@ li.active  a {
 	
 }
 
+.modal-cover:hover a{
+	  opacity: 1;
+	  -webkit-transition: all 0.8s ease-in-out;
+		transition: all 0.8s ease-in-out;
+	
+}
+.modal-cover:hover button{
+	  opacity: 1;
+	  -webkit-transition: all 0.8s ease-in-out;
+		transition: all 0.8s ease-in-out;
+	
+}
 #casabonita {
 	 -webkit-transition: all 0.8s ease-in-out;
 		transition: all 0.8s ease-in-out;

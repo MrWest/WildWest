@@ -802,8 +802,9 @@
 		<div class="overlay-content">
 				 <div class=" folio-info animated fadeInUp "  data-wow-duration="800ms" data-wow-delay="100ms" >										
 								
-										 <p> Havana, the largest city in the Caribbean, is the Cuba's political, cultural and economic center. This tour includes traveling all around the city, covering the most outstanding sites of Havana like: the Revolution Square, the Capitolio, the Central Park, or just drive through Vedado or Miramar neighbourhood, or just enjoy the excellent view when driving through the promenade that goes 7 km around the Northern part of the city.</p>
+										 <p> Havana, the largest city in the Caribbean, is the Cuba's political, cultural and economic center. </p>	
 						<div id="havana-tour-program-En" class="text-left visible animated fadeInUp">
+												<p>This tour includes traveling all around the city, covering the most outstanding sites of Havana like: the Revolution Square, the Capitolio, the Central Park, or just drive through Vedado or Miramar neighbourhood, or just enjoy the excellent view when driving through the promenade that goes 7 km around the Northern part of the city.</p>
 												<p>
 													<strong>Program</strong>:</p>
 												<p>
@@ -914,9 +915,10 @@
 		<div class="overlay-content">
 				 <div   class=" folio-info fadeInUp"  >										
 								
-										 <p> La Habana, la mayor ciudad del Caribe, es la capital económica, política y cultural de Cuba. Esta excursion incluye visitas a la parte vieja de la cuidad, cubriendo los sitios mas relevantes de la ciudad, tales como:la Plaza de la Revoluci&oacute;n, el Capitolio, el Parque Central, o simplemente recorrer los barrios Vedado o Miramar, o sencillamente disfrutar de la magn&iacute;fica vista del paseo en carro sobre 7km alrededor del norte de la ciudad.</span></p>
+										 <p> La Habana, la mayor ciudad del Caribe, es la capital económica, política y cultural de Cuba.</p>
 		<div id="havana-tour-program-Es"  class=" text-left visible animated fadeInUp">
-						 <p class="MsoNormal" style="text-align:justify">
+						<p> Esta excursion incluye visitas a la parte vieja de la cuidad, cubriendo los sitios mas relevantes de la ciudad, tales como:la Plaza de la Revoluci&oacute;n, el Capitolio, el Parque Central, o simplemente recorrer los barrios Vedado o Miramar, o sencillamente disfrutar de la magn&iacute;fica vista del paseo en carro sobre 7km alrededor del norte de la ciudad.</span></p>
+						<p class="MsoNormal" style="text-align:justify">
 							<strong><span lang="ES" style="font-size: 12pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Programa:</span></strong></p>
 						<p class="MsoNormal" style="text-align:justify">
 							<span lang="ES" style="font-size: 12pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">08:00am-06:00pm</span></p>
@@ -1019,10 +1021,11 @@
 		<div class="overlay-content">
 				 <div class=" folio-info animated fadeInUp "  data-wow-duration="800ms" data-wow-delay="100ms" >										
 								
-					 <p> Try to discover the real Cuba visiting the cities around Varadero, explore Cuba under a new vision. You have the opportunity to visit Matanzas, also called the city of the bridges and the Athens of Cuba. This gives you the chance to visit the Bellamar cave, full of myths and legends and the pharmaceutical museum. a drive through the country side shows how the farmers live in Cuba, and makes our way to Cardenas, a mixture of modern and neoclassical architecture.</p >
+					 <p> Try to discover the real Cuba visiting the cities around Varadero, explore Cuba under a new vision.</p>
 				  
 				<div id="mvc-tour-program-En" class="text-left animated fadeInUp visible">
-									<p>
+				<p> You have the opportunity to visit Matanzas, also called the city of the bridges and the Athens of Cuba. This gives you the chance to visit the Bellamar cave, full of myths and legends and the pharmaceutical museum. a drive through the country side shows how the farmers live in Cuba, and makes our way to Cardenas, a mixture of modern and neoclassical architecture.</p >
+				<p>
 						<strong>Schedule</strong></p>
 					<p>
 						<strong>09:00am- 04:00pm</strong></p>
@@ -1132,9 +1135,10 @@
 		<div class="overlay-content">
 				 <div   class=" folio-info fadeInUp"  >										
 								
-										 <p> Descubra la verdadera Cuba mediante una visita a las ciudades aledañas de Varadero.Usted tendrá la posibilidad de visitar Matanzas que es también conocida con la ciudad de los puentes o también la Atenas de Cuba. Ahí podrá Usted ir a la cueva de Bellamar, un sitio repleto de mitos y leyendas, así como el museo farmacéutico. Un viaje por el campo le permitirá apreciar también el modo de vida los campesinos en Cuba, y así su camino hacia Cárdenas será una mezcla de arquitectura moderna y neoclásica.</p >
+										 <p> Descubra la verdadera Cuba mediante una visita a las ciudades aledañas de Varadero.</p>
 										 
 										 <div id="mvc-tour-program-Es" class="text-left animated fadeInUp visible">
+										 <p> Usted tendrá la posibilidad de visitar Matanzas que es también conocida con la ciudad de los puentes o también la Atenas de Cuba. Ahí podrá Usted ir a la cueva de Bellamar, un sitio repleto de mitos y leyendas, así como el museo farmacéutico. Un viaje por el campo le permitirá apreciar también el modo de vida los campesinos en Cuba, y así su camino hacia Cárdenas será una mezcla de arquitectura moderna y neoclásica.</p >
 										 <p class="MsoNormal" style="text-align:justify">
 												<strong><span lang="ES" style="font-size: 12pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">Programa:</span></strong></p>
 											<p class="MsoNormal" style="text-align:justify">
@@ -1239,9 +1243,11 @@
 		<div class="overlay-content">
 				 <div class=" folio-info animated fadeInUp "  data-wow-duration="800ms" data-wow-delay="100ms" >										
 								
-					 <p> Get a ride through the green country side to visit the best two cities of the central part of Cuba. They are so perfectly preserved that we can see the features of a Spanish colonization on its very architecture. Cienfuegos, also called “the Pearl of the South”, founded by the French in 1819 is the perfect city to enjoy a neoclassical architecture and the city itself that was built along one of the most beautiful bays in the Caribbean Sea. Trinidad is the city that takes your imagination back in time because of the well preservation of the buildings. It was the third village founded by the Spanish people in Cuba and declared World Heritage Site by UNESCO in 1988</p >
+					 <p> Get a ride through the green country side to visit the best two cities of the central part of Cuba. They are so perfectly preserved that we can see the features of a Spanish colonization on its very architecture.</p>
 				   <div id="trinidadc-tour-program-En" class="text-left animated fadeInUp visible">
-														   <p>
+									<p>  Cienfuegos, also called “the Pearl of the South”, founded by the French in 1819 is the perfect city to enjoy a neoclassical architecture and the city itself that was built along one of the most beautiful bays in the Caribbean Sea. Trinidad is the city that takes your imagination back in time because of the well preservation of the buildings. It was the third village founded by the Spanish people in Cuba and declared World Heritage Site by UNESCO in 1988</p >
+
+											<p>
 											<strong>Program</strong></p>
 										<p>
 											06:30am- 07:00pm</p>
@@ -1354,12 +1360,12 @@
 		<div class="overlay-content">
 				 <div   class=" folio-info fadeInUp"  >										
 								
-										 <p> Viaje a través de la campiña cubana para visitar las dos más interesantes ciudades de la región central de Cuba.Son tan perfectamente conservadas que aun muestran elementos típicos de la arquitectura colonial española.</p >
+										 <p> Viaje a través de la campiña cubana para visitar las dos más interesantes ciudades de la región central de Cuba.</p><p> Son tan perfectamente conservadas que aun muestran elementos típicos de la arquitectura colonial española.</p >
 				   
-											<p>		La ciudad de Cienfuegos, también conocida como la “Perla del Sur”, fundada por los franceses en 1819 es una ciudad ideal para apreciar una arquitectura neoclásica, la cual se construyo a lo largo de una de las más bellas bahías del Mar Caribe. Trinidad es la ciudad que le permite viajar en el tiempo gracias a sus construcciones que se encuentran aun bien conservadas. Fue la tercera villa fundada por los españoles en Cuba, y fue declarada Patrimonio de la Humanidad por la UNESCO en 1988.</p >
-				  
+											
 				<div  id="trinidadc-tour-program-Es"  class=" text-left animated fadeInUp visible"  >	
-															<p>
+										<p>		La ciudad de Cienfuegos, también conocida como la “Perla del Sur”, fundada por los franceses en 1819 es una ciudad ideal para apreciar una arquitectura neoclásica, la cual se construyo a lo largo de una de las más bellas bahías del Mar Caribe. Trinidad es la ciudad que le permite viajar en el tiempo gracias a sus construcciones que se encuentran aun bien conservadas. Fue la tercera villa fundada por los españoles en Cuba, y fue declarada Patrimonio de la Humanidad por la UNESCO en 1988.</p >
+				  					<p>
 												&nbsp;Programa:</p>
 											<p>
 												06-30am-07:00pm</p>
@@ -1466,9 +1472,10 @@
 		<div class="overlay-content">
 				 <div class=" folio-info animated fadeInUp "  data-wow-duration="800ms" data-wow-delay="100ms" >										
 								
-					 <p> Tropicana was opened in 1939 as the most flamboyant night club in the world. It worked as a casino in the 50s with a new showroom the “Salon Arcos De Cristales”. International celebrities such as Nat “King” Cole, Josephine Baker, and Carmen Miranda headlined the show. Nowadays it is still the best cabaret in the island. The more than 200 performers are hand-picked from the crème-de-la-crème of Cuba’s dancers and singers.  Do not miss the chance to meet the “paradise under the star” with most of the Cuban rhythms and dances such as danzon, dansonete, chachacha, rumba, meringue, salsa among others.</p >
+					 <p> Tropicana was opened in 1939 as the most flamboyant night club in the world. It worked as a casino in the 50s with a new showroom the “Salon Arcos De Cristales”. </p>
 				  <div id="tropicana-tour-program-En" class=" text-left folio-info animated fadeInUp visible" >
-											  <p>
+							<p> International celebrities such as Nat “King” Cole, Josephine Baker, and Carmen Miranda headlined the show. Nowadays it is still the best cabaret in the island. The more than 200 performers are hand-picked from the crème-de-la-crème of Cuba’s dancers and singers.  Do not miss the chance to meet the “paradise under the star” with most of the Cuban rhythms and dances such as danzon, dansonete, chachacha, rumba, meringue, salsa among others.</p >
+							<p>
 								<strong>Program:</strong></p>
 							<ul>
 								<li>
@@ -1580,9 +1587,10 @@
 		<div class="overlay-content">
 				 <div   class=" folio-info fadeInUp"  >										
 								
-										 <p> El Cabaret Tropicana se abrió en el 1939 como el club nocturno de mayor brillo a nivel mundial. Funcionó como casino en los años 50 con una nueva sala de espectáculo, el “Salón Arcos de Cristales”. Celebridades internacionales como Nat “King” Cole, Josephine Baker, y Carmen Miranda han protagonizado espectáculos allí. En la actualidad, sigue siendo el mejor cabaret de la isla. Los más de 200 artistas son rigorosamente seleccionados dentro de los mejores de los mejores de los bailarines y cantantes cubanos. No pierda la oportunidad de descubrir el “paraíso bajo las estrellas” con la mayoría de los ritmos y danzas cubanas como el danzón, el dansonete, el chachachá, la rumba, el merengue, la salsa, entre otros.</p >
+										 <p> El Cabaret Tropicana se abrió en el 1939 como el club nocturno de mayor brillo a nivel mundial. Funcionó como casino en los años 50 con una nueva sala de espectáculo, el “Salón Arcos de Cristales”.</p>
 				   
 				    <div id="tropicana-tour-program-Es"  class="text-left animated fadeInUp visible"  >	
+							<p> Celebridades internacionales como Nat “King” Cole, Josephine Baker, y Carmen Miranda han protagonizado espectáculos allí. En la actualidad, sigue siendo el mejor cabaret de la isla. Los más de 200 artistas son rigorosamente seleccionados dentro de los mejores de los mejores de los bailarines y cantantes cubanos. No pierda la oportunidad de descubrir el “paraíso bajo las estrellas” con la mayoría de los ritmos y danzas cubanas como el danzón, el dansonete, el chachachá, la rumba, el merengue, la salsa, entre otros.</p >
 							<p>
 								Programa:</p>
 							<p>
@@ -1693,10 +1701,11 @@
 		<div class="overlay-content">
 				 <div class=" folio-info animated fadeInUp "  data-wow-duration="800ms" data-wow-delay="100ms" >										
 								
-										 <p> The southern region of Matanzas provides excellent places to spent the day and enjoy a natural enviroment.  Zapata peninsula is the Cuba’s most important wetland area and deservedly declared National Park. The area shows very diverse and complex ecosystems with more 900 species of flora, 171 species of birds, 31 of reptiles and 12 mammals. The most primitive of Cuban fish is easily seen in the Laguna del Tesoro (the second biggest lake in Cuba). Get the chance to enjoy the Cuba’s most important crocodile farm.  And enjoying a boat ride across the lake we get to an island that depicts the Cuban Indians engaged in daily activities. Just a bit more south we get to the bay of pigs, to enjoy not only a beautiful beach but a place full of history.</p >
+										 <p> The southern region of Matanzas provides excellent places to spent the day and enjoy a natural enviroment. </p>
 				  
 							<div id="guama-tour-program-En" class=" text-left animated fadeInUp visible "  data-wow-duration="800ms" data-wow-delay="100ms" >
-															<p>
+								<p> Zapata peninsula is the Cuba’s most important wetland area and deservedly declared National Park. The area shows very diverse and complex ecosystems with more 900 species of flora, 171 species of birds, 31 of reptiles and 12 mammals. The most primitive of Cuban fish is easily seen in the Laguna del Tesoro (the second biggest lake in Cuba). Get the chance to enjoy the Cuba’s most important crocodile farm.  And enjoying a boat ride across the lake we get to an island that depicts the Cuban Indians engaged in daily activities. Just a bit more south we get to the bay of pigs, to enjoy not only a beautiful beach but a place full of history.</p >
+								<p>
 									<strong>Program</strong></p>
 								<p>
 									-Pick up in the hotel at 8:00</p>
@@ -1800,15 +1809,16 @@
           <h4 class="modal-title">Guamá & la Bahía de Cochinos</h4>
         </div>       
         
-         <div   class="modal-body-guama ">
+         <div   class="modal-body-guama  ">
 		<div class="modal-cover" >		 
 		<div class="overlay-content">
 				 <div   class=" folio-info animated fadeInUp"  >										
 								
 										 <p> La parte sur de la provincia de Matanzas es un excelente lugar para pasar el día y disfrutar del entorno rural.</p >
 				    <div  id="guama-tour-program-Es" class=" text-left animated fadeInUp visible"  >	
-												   <p>
-									Programa</p>
+								 
+
+								 <p>Programa</p>
 								<p>
 									-Recogida al hotel a las 8:00 am</p>
 								<p>
@@ -1832,6 +1842,7 @@
 								<br>
 
 				   </div>
+				      </div>
 		    <div id="bookitguama-Es" class=" fadeInUp collapse " data-wow-duration="1000ms" data-wow-delay="300ms">
 			<hr style="height: 1px; margin: 25px 10px"></hr>
 					<form id="main-contact-form-CasaBonita-Es"  name="contact-form-CasaBonita-ES" method="post" action="<?php echo Yii::app()->theme->baseUrl; ?>/sendemail.php">
@@ -1910,9 +1921,10 @@
 		<div class="overlay-content">
 				 <div class=" folio-info animated fadeInUp "  data-wow-duration="800ms" data-wow-delay="100ms" >										
 								
-					 <p> Get the most complete tour that covers the central part of Cuba.  Have the chance to visit two perfectly preserved cities where we can see the features of a Spanish colonization on its very architecture. Cienfuegos, also called “the Pearl of the South”, founded by the French in 1819 is the perfect city to enjoy a neoclassical architecture and the city itself that was built along one of the most beautiful bays in the Caribbean Sea. Trinidad is the city that takes your imagination back in time because of the well preservation of the buildings. It was the third village founded by the Spanish people in Cuba and declared World Heritage Site by UNESCO in 1988. Moreover, you get to visit Santa Clara, where you can discover the life of Che Guevara, such an interesting and outstanding personality.</p >
+					 <p> Get the most complete tour that covers the central part of Cuba.  Have the chance to visit two perfectly preserved cities where we can see the features of a Spanish colonization on its very architecture.</p>
 				   
 				    <div id="threecities-tour-program-En" class=" text-left animated fadeInUp visible "   >
+					<p> Cienfuegos, also called “the Pearl of the South”, founded by the French in 1819 is the perfect city to enjoy a neoclassical architecture and the city itself that was built along one of the most beautiful bays in the Caribbean Sea. Trinidad is the city that takes your imagination back in time because of the well preservation of the buildings. It was the third village founded by the Spanish people in Cuba and declared World Heritage Site by UNESCO in 1988. Moreover, you get to visit Santa Clara, where you can discover the life of Che Guevara, such an interesting and outstanding personality.</p >
 					<p >
 						<strong>Program:</strong></p>
 					<p >
@@ -2032,9 +2044,10 @@
 		<div class="overlay-content">
 				 <div   class=" folio-info fadeInUp"  >										
 								
-										 <p> Tenga Usted la más completa excursión que abarca la región central de Cuba. Recorra todo el campo verde para visitar dos ciudades tan perfectamente conservadas que aun muestran elementos típicos de la arquitectura colonial española. La ciudad de Cienfuegos, también conocida como la “Perla del Sur”, fundada por los franceses en 1819 es una ciudad ideal para apreciar una arquitectura neoclásica; esa misma ciudad ha sido construida a lo largo de una de las más bellas bahías del Mar Caribe. Trinidad es la ciudad que le permite viajar en el tiempo gracias a sus construcciones que se encuentran aun bien conservadas. Fue la tercera villa fundada por los españoles en Cuba, y fue inscrita en la Lista de Patrimonios de la Humanidad por la UNESCO en 1988. También Ud. podrá visitar Santa Clara donde tendrá la oportunidad de conocer sobre la vida del Ché Guevara, esta icónica personalidad tan única e interesante.</p >
+										 <p> Tenga Usted la más completa excursión que abarca la región central de Cuba. Recorra todo el campo verde para visitar dos ciudades tan perfectamente conservadas que aun muestran elementos típicos de la arquitectura colonial española.</p>
 						<div id="threecities-tour-program-Es"  class=" text-left animated fadeInUp visible"  >					  
-						  <p>
+						 <p> La ciudad de Cienfuegos, también conocida como la “Perla del Sur”, fundada por los franceses en 1819 es una ciudad ideal para apreciar una arquitectura neoclásica; esa misma ciudad ha sido construida a lo largo de una de las más bellas bahías del Mar Caribe. Trinidad es la ciudad que le permite viajar en el tiempo gracias a sus construcciones que se encuentran aun bien conservadas. Fue la tercera villa fundada por los españoles en Cuba, y fue inscrita en la Lista de Patrimonios de la Humanidad por la UNESCO en 1988. También Ud. podrá visitar Santa Clara donde tendrá la oportunidad de conocer sobre la vida del Ché Guevara, esta icónica personalidad tan única e interesante.</p >
+						 <p>
 								<strong>Programa:</strong></p>
 							<p>
 								6:30am-8:30pm</p>
@@ -2312,10 +2325,11 @@
 		<div class="overlay-content">
 				 <div class=" folio-info animated fadeInUp "  data-wow-duration="800ms" data-wow-delay="100ms" >										
 								
-					 <p> At 9 O’clock pm part of the old Havana is shaken by the sound of cannon fired from the fortress of San Carlos de la Cabaña. The ceremony is carried on by a squad of soldiers dressed in red and yellow-gold of the Spanish colonial army. They march towards the cannon, load it with gunpowder and light that the fuse. This beautiful and historical ceremony takes place everyday now in front of lots of tourists. However, it was an actual military procedure to announce the opening and closing of the wall gates.</p >
+					 <p> At 9 O’clock pm part of the old Havana is shaken by the sound of cannon fired from the fortress of San Carlos de la Cabaña. The ceremony is carried on by a squad of soldiers dressed in red and yellow-gold of the Spanish colonial army.</p>
 				   
 				   <div id="cannonshot-tour-program-En" class=" text-left animated fadeInUp visible"  data-wow-duration="800ms" data-wow-delay="100ms" >	
-				   <p>
+				  <p> They march towards the cannon, load it with gunpowder and light that the fuse. This beautiful and historical ceremony takes place everyday now in front of lots of tourists. However, it was an actual military procedure to announce the opening and closing of the wall gates.</p >
+				  <p>
 							<strong>Program:</strong></p>
 						<ul>
 							<li>
@@ -2428,9 +2442,10 @@
 		<div class="overlay-content">
 				 <div   class=" folio-info fadeInUp"  >										
 								
-					 <p> A las 9:00 pm, parte de la Habana vieja  se mueve por el sonido del disparo de un cañón desde la fortaleza de San Carlos de la Cabaña. La ceremonia es llevada a cabo por un escuadrón de soldados vestidos de rojo y amarillo-dorado al estilo del ejército colonial español. Esos soldados marchan hacia el cañón, lo cargan con pólvora y plomo ---. Esta bella e histórica ceremonia se desarrolla cada día actualmente frente a un gran número de turistas. Sin embargo, era en realidad un procedimiento militar que anunciaba el cierre de los portones de la ciudad.</p >
+					 <p> A las 9:00 pm, parte de la Habana vieja  se mueve por el sonido del disparo de un cañón desde la fortaleza de San Carlos de la Cabaña. La ceremonia es llevada a cabo por un escuadrón de soldados vestidos de rojo y amarillo-dorado al estilo del ejército colonial español.</p>
 				   <div  id="cannonshot-tour-program-Es" class=" text-left animated fadeInUp visible"  >	
-										   <p>
+						<p> Esos soldados marchan hacia el cañón, lo cargan con pólvora y plomo ---. Esta bella e histórica ceremonia se desarrolla cada día actualmente frente a un gran número de turistas. Sin embargo, era en realidad un procedimiento militar que anunciaba el cierre de los portones de la ciudad.</p >
+						<p>
 							<strong>Programa:</strong></p>
 						<ul>
 							<li>
@@ -2646,7 +2661,7 @@
                                     <p>The southern region of Matanzas provides excellent places to spent the day and enjoy a natural enviroment.</p>
                                 </div>
                                 <div class="folio-overview">
-                                     <span class="folio-link"><a title="Book it!..."   data-single_url="portfolio-single.html" onclick="$('#guama-En').modal('toggle')"><i class="fa fa-link"></i></a></span>
+                                     <span class="folio-link"><a title="Book it!..."    onclick="$('#guama-En').modal('toggle')"><i class="fa fa-link"></i></a></span>
                                     <span class="folio-expand"><a  title="More más..." href="<?php echo Yii::app()->theme->baseUrl; ?>/themes/oxygen/images/portfolio/guanma.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                                 </div>
                             </div>
@@ -2669,7 +2684,7 @@
                                     <p> Get the most complete tour that covers the central part of Cuba.</p>
                                 </div>
                                 <div class="folio-overview">
-                                     <span class="folio-link"><a title="Book it!..."   data-single_url="portfolio-single.html" onclick="$('#threeCities-En').modal('toggle')"><i class="fa fa-link"></i></a></span>
+                                     <span class="folio-link"><a title="Book it!..."    onclick="$('#threeCities-En').modal('toggle')"><i class="fa fa-link"></i></a></span>
                                     <span class="folio-expand"><a  title="More más..." href="<?php echo Yii::app()->theme->baseUrl; ?>/images/portfolio/13-cienfuegos.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                                 </div>
                             </div>
@@ -3100,7 +3115,7 @@
           <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
           <h4 class="modal-title">Casa Las Villas</h4>
         </div>
-        <div  class="modal-body ">
+        <div  class="modal-body-casalasvillas ">
 		<div class="modal-cover" >		 
 		<div class="overlay-content">
 				 <div class=" folio-info animated fadeInUp "  data-wow-duration="800ms" data-wow-delay="100ms" >										
@@ -3185,7 +3200,7 @@
           <h4 class="modal-title">Casa Las Villas</h4>
         </div>       
         
-         <div id="casabonita-Es" class="modal-body ">
+         <div  class="modal-body-casalasvillas ">
 		<div class="modal-cover" >		 
 		<div class="overlay-content">
 				 <div   class=" folio-info fadeInUp"  >										
@@ -3265,14 +3280,14 @@
           <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
           <h4 class="modal-title">Casa Doraida</h4>
         </div>
-        <div id="bookitcasadoraida-En" class="modal-body visible ">
+        <div  class="modal-body-doraida ">
 		<div class="modal-cover" >		 
 		<div class="overlay-content">
 				 <div class=" folio-info animated fadeInUp "  data-wow-duration="800ms" data-wow-delay="100ms" >										
 								
 										 <p> In the metropolitan beach zone of Guanabo, this property has two bedrooms, each one prepared with matrimonial beds, personal bathroom, conditionated air, and minibar feature included.</p >
 				   </div>
-		    <div id="bookitcasabonita-En" class=" folio-info animated fadeInUp collapse "  data-wow-duration="1000ms" data-wow-delay="300ms">
+		    <div id="bookitcasadoraida-En" class=" folio-info animated fadeInUp collapse "  data-wow-duration="1000ms" data-wow-delay="300ms">
 			<hr style="height: 1px; margin: 25px 10px"></hr>
 					<form id="main-contact-form-CasaBonita-En"  name="contact-form-CasaBotina-En" method="post" action="<?php echo Yii::app()->theme->baseUrl; ?>/sendemail.php">
                             <div class="row   fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
@@ -3431,7 +3446,7 @@
           <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
           <h4 class="modal-title">Casa Cienfuegos</h4>
         </div>
-        <div  class="modal-body  ">
+        <div  class="modal-body-casacienfuegos  ">
 		<div class="modal-cover" >		 
 		<div class="overlay-content">
 				 <div class=" folio-info animated fadeInUp "  data-wow-duration="800ms" data-wow-delay="100ms" >										
@@ -3516,7 +3531,7 @@
           <h4 class="modal-title">Casa Cienfuegos</h4>
         </div>       
         
-         <div class="modal-body ">
+         <div class="modal-body-casacienfuegos ">
 		<div class="modal-cover" >		 
 		<div class="overlay-content">
 				 <div   class=" folio-info fadeInUp"  >										
@@ -3596,7 +3611,7 @@
           <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
           <h4 class="modal-title">Villa Paraiso</h4>
         </div>
-        <div  class="modal-body visible ">
+        <div  class="modal-body-villaparaiso ">
 		<div class="modal-cover" >		 
 		<div class="overlay-content">
 				 <div class=" folio-info animated fadeInUp "  data-wow-duration="800ms" data-wow-delay="100ms" >										
@@ -3681,7 +3696,7 @@
           <h4 class="modal-title">Villa Paraiso</h4>
         </div>       
         
-         <div class="modal-body ">
+         <div class="modal-body-villaparaiso ">
 		<div class="modal-cover" >		 
 		<div class="overlay-content">
 				 <div   class=" folio-info fadeInUp"  >										
@@ -3761,7 +3776,7 @@
           <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
           <h4 class="modal-title">Casa El Encanto</h4>
         </div>
-        <div class="modal-body visible ">
+        <div class="modal-body-casaelencanto ">
 		<div class="modal-cover" >		 
 		<div class="overlay-content">
 				 <div class=" folio-info animated fadeInUp "  data-wow-duration="800ms" data-wow-delay="100ms" >										
@@ -3846,7 +3861,7 @@
           <h4 class="modal-title">Casa El Encanto</h4>
         </div>       
         
-         <div class="modal-body ">
+         <div class="modal-body-casaelencanto ">
 		<div class="modal-cover" >		 
 		<div class="overlay-content">
 				 <div   class=" folio-info fadeInUp"  >										
@@ -3926,7 +3941,7 @@
           <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
           <h4 class="modal-title">Casa Azul</h4>
         </div>
-        <div  class="modal-body  ">
+        <div  class="modal-body-casaazul ">
 		<div class="modal-cover" >		 
 		<div class="overlay-content">
 				 <div class=" folio-info animated fadeInUp "  data-wow-duration="800ms" data-wow-delay="100ms" >										
@@ -4011,7 +4026,7 @@
           <h4 class="modal-title">Casa Azul</h4>
         </div>       
         
-         <div class="modal-body ">
+         <div class="modal-body-casaazul ">
 		<div class="modal-cover" >		 
 		<div class="overlay-content">
 				 <div   class=" folio-info fadeInUp"  >										
@@ -4091,7 +4106,7 @@
           <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
           <h4 class="modal-title">Casa Fresa</h4>
         </div>
-        <div  class="modal-body  ">
+        <div  class="modal-body-casafresa  ">
 		<div class="modal-cover" >		 
 		<div class="overlay-content">
 				 <div class=" folio-info animated fadeInUp "  data-wow-duration="800ms" data-wow-delay="100ms" >										
@@ -4176,7 +4191,7 @@
           <h4 class="modal-title">Casa Fresa</h4>
         </div>       
         
-         <div class="modal-body ">
+         <div class="modal-body-casafresa ">
 		<div class="modal-cover" >		 
 		<div class="overlay-content">
 				 <div   class=" folio-info fadeInUp"  >										
